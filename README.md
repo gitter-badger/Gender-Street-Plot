@@ -1,6 +1,8 @@
 Gender-Street-Plot
 ==================
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/armgilles/Gender-Street-Plot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - use Plotly to have some great plot (https://plot.ly/ for their awsome work !)
 - Use Openstreetmap & overpass-turbo.eu to have some data about a city (licence ODbL)
 - Use previous model (https://github.com/armgilles/Street-Gender-CUB) to find gender's streets (files are in data directory).
